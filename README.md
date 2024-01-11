@@ -1,6 +1,6 @@
 # Taller-Junit
 
-### Integrantes
+#### Integrantes
 - Emily Valarezo Plaza
 - Austin Estrella Galarza
 
