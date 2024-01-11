@@ -10,3 +10,5 @@
 - Test-3           |   Verficar la operación multiplicación   |   6·8        |   6·8=48
 - Test-4           |   Verficar la operación división         |   18/9       |   18/9=2
 - Test-5           |   Verficar la operación combiada         |   1/1+2·1    |   1/1+2·1=3
+
+Nota: Debido a problemas con JUnit, no se pudo obtener las capturas de los resultados, pero si revisan la clase OperationsTest.java se realizó el código correcto para realizar las pruebas unitarias.
